@@ -6,8 +6,6 @@ from typing import Optional
 
 from game.blackJackGame_old import BlackJackGame
 
-__author__ = 'Rico'
-
 
 # game_handler handles the blackJack-game-objects. When a new game is created, it is saved in the "game_list"
 class GameHandler(object):
